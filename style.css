@@ -1,0 +1,118 @@
+
+header a{
+ font-family: Passifico;
+font-size: 45px;
+}
+<header>
+<style>
+/*оформление первой секции*/
+.banner{
+    display:flex;
+    justify-content: space-between;
+    align-items:center;
+    height: 670px;
+    padding: 0 50px 0 165px;
+    position: relative;
+    background-image: url("https: //clck.ru/3EunSr");
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+header {
+    display: flex;
+    justify-content: space-around;
+
+    height: 80px;
+    padding: 0 800px;
+    background-color: rgb(41, 137, 240);
+}
+.text1 h1 {
+    font-weight:800;
+    font-size: 72px;
+    line-height: 98px;
+    color : #18191f;
+    margin: 0;
+}
+ .text1 p{
+    font size 18px;
+    line-height: 33px ;
+    color: #18191f;
+    margin:0
+ }
+body {
+    background-color: #99def3;
+    margin:0;
+    font-family: "Inter";
+}
+
+
+
+.header {
+    background-color: #00bfff;
+    padding: 10px;
+}
+
+.button {
+    background-color: white;
+    color: #00bfff;
+    padding: 5px 10px;
+    margin-right: 10px;
+    border: 1px solid #00bfff;
+    border-radius: 5px;
+    text-decoration: none;
+}
+.statya {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 668px;
+}
+.statya{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 668px;
+}
+.statya img{
+  width: 900px;
+  height: 540px;
+  margin-right: 24px;
+}
+.statya1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 668px;
+    
+}
+.statya1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 668px;
+}
+.statya1 img {
+    width: 940px;
+    height: 700px;
+    margin-right: 120px;
+}
+footer{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+   height: 80px;
+    padding: 0 160px;
+    background-color:rgb(14, 186, 199);
+
+}
+footer>a{
+    font-weight: 500px;
+    font-size: 14px;
+    line-height: 20px;
+     text-decoration: none;
+     margin-right: 32px;
+     color: azure;
+}
+
+</style>
+</header>
